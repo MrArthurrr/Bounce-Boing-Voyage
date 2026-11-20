@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameAchievements gameid='2000AFC0'>
+    <Achievement id='1' hidden='false' >
+        <GamingPoints type='single'>10</GamingPoints>
+        <Title>Skybean Master</Title>
+		<Title lang='fr-fr'>Maître de Skybean</Title>
+		<Title lang='it'>Maestro Skybean</Title>
+		<Title lang='de'>Skybean-Meister</Title>
+		<Title lang='es-es'>Maestro Skybean</Title>
+		<Title lang='zh-cn'>Skybean 大师</Title>
+		<Title lang='zh-tw'>Skybean 大師</Title>
+        <Description>Complete Skybean Land</Description>
+		<Description lang='fr-fr'>Terminez Skybeanland</Description>
+		<Description lang='it'>Completa Skybeanland</Description>
+		<Description lang='de'>Skybeanland abschließen</Description>
+		<Description lang='es-es'>Completar Skybeanland</Description>
+		<Description lang='zh-cn'>完成 Skybeanland</Description>
+		<Description lang='zh-tw'>完成 Skybeanland</Description>
+		<IconName>pp_bounce.png</IconName>
+		<IconName lang='fr-fr'>pp_bounce.png</IconName>
+		<IconName lang='it'>pp_bounce.png</IconName>
+		<IconName lang='de'>pp_bounce.png</IconName>
+		<IconName lang='es-es'>pp_bounce.png</IconName>
+		<IconName lang='zh-cn'>pp_bounce.png</IconName>
+		<IconName lang='zh-tw'>pp_bounce.png</IconName>
+    </Achievement>
+    <Achievement id='2' hidden='false' >
+        <GamingPoints type='single'>20</GamingPoints>
+        <Title>Mushroom Master</Title>
+		<Title lang='fr-fr'>Maître de Mushroom</Title>
+		<Title lang='it'>Maestro Mushroom</Title>
+		<Title lang='de'>Mushroom-Meister</Title>
+		<Title lang='es-es'>Maestro Mushroom</Title>
+		<Title lang='zh-cn'>Mushroom 大师</Title>
+		<Title lang='zh-tw'>Mushroom 大師</Title>
+        <Description>Complete Mushroom Mines</Description>
+		<Description lang='fr-fr'>Terminez Mushroom Mines</Description>
+		<Description lang='it'>Completa Mushroom Mines</Description>
+		<Description lang='de'>Mushroom Mines abschließen</Description>
+		<Description lang='es-es'>Completar Mushroom Mines</Description>
+		<Description lang='zh-cn'>完成 Mushroom Mines</Description>
+		<Description lang='zh-tw'>完成 Mushroom Mines</Description>
+        <IconName>pp_rock.png</IconName>
+		<IconName lang='fr-fr'>pp_rock.png</IconName>
+		<IconName lang='it'>pp_rock.png</IconName>
+		<IconName lang='de'>pp_rock.png</IconName>
+		<IconName lang='es-es'>pp_rock.png</IconName>
+		<IconName lang='zh-cn'>pp_rock.png</IconName>
+		<IconName lang='zh-tw'>pp_rock.png</IconName>    
+	</Achievement>
+    <Achievement id='3' hidden='false' >
+        <GamingPoints type='single'>100</GamingPoints>
+        <Title>Hypno Master</Title>
+		<Title lang='fr-fr'>Maître de Hypno</Title>
+		<Title lang='it'>Maestro Hypno</Title>
+		<Title lang='de'>Hypno-Meister</Title>
+		<Title lang='es-es'>Maestro Hypno</Title>
+		<Title lang='zh-cn'>Hypno 大师</Title>
+		<Title lang='zh-tw'>Hypno 大師</Title>
+        <Description>Complete Hypnoland</Description>
+		<Description lang='fr-fr'>Terminez Hypnoland</Description>
+		<Description lang='it'>Completa Hypnoland</Description>
+		<Description lang='de'>Hypnoland abschließen</Description>
+		<Description lang='es-es'>Completar Hypnoland</Description>
+		<Description lang='zh-cn'>完成 Hypnoland</Description>
+		<Description lang='zh-tw'>完成 Hypnoland</Description>
+        <IconName>pp_mud.png</IconName>
+		<IconName lang='fr-fr'>pp_mud.png</IconName>
+		<IconName lang='it'>pp_mud.png</IconName>
+		<IconName lang='de'>pp_mud.png</IconName>
+		<IconName lang='es-es'>pp_mud.png</IconName>
+		<IconName lang='zh-cn'>pp_mud.png</IconName>
+		<IconName lang='zh-tw'>pp_mud.png</IconName>    
+    </Achievement>
+    <Achievement id='4' hidden='false' >
+        <GamingPoints type='single'>20</GamingPoints>
+        <Title>Whoomy Zoomer</Title>
+		<Title lang='fr-fr'>Whoomy Zoomer</Title>
+		<Title lang='it'>Whoomy Zoomer</Title>
+		<Title lang='de'>Whoomy Zoomer</Title>
+		<Title lang='es-es'>Whoomy Zoomer</Title>
+		<Title lang='zh-cn'>Whoomy Zoomer</Title>
+		<Title lang='zh-tw'>Whoomy Zoomer</Title>
+        <Description>Unlock Whoomy Zoomy</Description>
+		<Description lang='fr-fr'>Déverrouillez Whoomy Zoomy</Description>
+		<Description lang='it'>Sblocca Whoomy Zoomy</Description>
+		<Description lang='de'>Whoomy Zoomy freischalten</Description>
+		<Description lang='es-es'>Desbloquear Whoomy Zoomy</Description>
+		<Description lang='zh-cn'>解锁 Whoomy Zoomy</Description>
+		<Description lang='zh-tw'>解鎖 Whoomy Zoomy</Description>
+        <IconName>pp_star02.png</IconName>
+		<IconName lang='fr-fr'>pp_star02.png</IconName>
+		<IconName lang='it'>pp_star02.png</IconName>
+		<IconName lang='de'>pp_star02.png</IconName>
+		<IconName lang='es-es'>pp_star02.png</IconName>
+		<IconName lang='zh-cn'>pp_star02.png</IconName>
+		<IconName lang='zh-tw'>pp_star02.png</IconName>    
+    </Achievement>
+    <Achievement id='5' hidden='false' >
+        <GamingPoints type='single'>20</GamingPoints>
+        <Title>Boing Bowler</Title>
+		<Title lang='fr-fr'>Boing Bowler</Title>
+		<Title lang='it'>Boing Bowler</Title>
+		<Title lang='de'>Boing Bowler</Title>
+		<Title lang='es-es'>Boing Bowler</Title>
+		<Title lang='zh-cn'>Boing Bowler</Title>
+		<Title lang='zh-tw'>Boing Bowler</Title>
+        <Description>Unlock Boing Bowley</Description>
+		<Description lang='fr-fr'>Déverrouillez Boing Bowley</Description>
+		<Description lang='it'>Sblocca Boing Bowley</Description>
+		<Description lang='de'>Boing Bowley freischalten</Description>
+		<Description lang='es-es'>Desbloquear Boing Bowley</Description>
+		<Description lang='zh-cn'>解锁 Boing Bowley</Description>
+		<Description lang='zh-tw'>解鎖 Boing Bowley</Description>
+        <IconName>pp_star02.png</IconName>
+		<IconName lang='fr-fr'>pp_star02.png</IconName>
+		<IconName lang='it'>pp_star02.png</IconName>
+		<IconName lang='de'>pp_star02.png</IconName>
+		<IconName lang='es-es'>pp_star02.png</IconName>
+		<IconName lang='zh-cn'>pp_star02.png</IconName>
+		<IconName lang='zh-tw'>pp_star02.png</IconName>    
+    </Achievement>
+    <Achievement id='6' hidden='false' >
+        <GamingPoints type='single'>20</GamingPoints>
+        <Title>Boom Banger</Title>
+		<Title lang='fr-fr'>Boom Banger</Title>
+		<Title lang='it'>Boom Banger</Title>
+		<Title lang='de'>Boom Banger</Title>
+		<Title lang='es-es'>Boom Banger</Title>
+		<Title lang='zh-cn'>Boom Banger</Title>
+		<Title lang='zh-tw'>Boom Banger</Title>
+        <Description>Unlock Boom Bangy</Description>
+		<Description lang='fr-fr'>Déverrouillez Boom Bangy</Description>
+		<Description lang='it'>Sblocca Boom Bangy</Description>
+		<Description lang='de'>Boom Bangy freischalten</Description>
+		<Description lang='es-es'>Desbloquear Boom Bangy</Description>
+		<Description lang='zh-cn'>解锁 Boom Bangy</Description>
+		<Description lang='zh-tw'>解鎖 Boom Bangy</Description>
+        <IconName>pp_star02.png</IconName>
+		<IconName lang='fr-fr'>pp_star02.png</IconName>
+		<IconName lang='it'>pp_star02.png</IconName>
+		<IconName lang='de'>pp_star02.png</IconName>
+		<IconName lang='es-es'>pp_star02.png</IconName>
+		<IconName lang='zh-cn'>pp_star02.png</IconName>
+		<IconName lang='zh-tw'>pp_star02.png</IconName>    
+    </Achievement>
+    <Achievement id='7' hidden='false' >
+        <GamingPoints type='single'>100</GamingPoints>
+        <Title>Bronze score master</Title>
+		<Title lang='fr-fr'>Maître Score Bronze</Title>
+		<Title lang='it'>Maestro Pti Bronzo</Title>
+		<Title lang='de'>Punktemeister Bronze</Title>
+		<Title lang='es-es'>Maestro Punt. Bronce</Title>
+		<Title lang='zh-cn'>青铜大师</Title>
+		<Title lang='zh-tw'>銅牌得分大師</Title>
+        <Description>1,000,000 pts in Whoomy Zoomy</Description>
+		<Description lang='fr-fr'>1000000 pts à Whoomy Zoomy</Description>
+		<Description lang='it'>1.000.000 pti Whoomy Zoomy</Description>
+		<Description lang='de'>In Whoomy Zoomy 1000000 Pkt</Description>
+		<Description lang='es-es'>1 millón p. en Whoomy Zoomy</Description>
+		<Description lang='zh-cn'>在 Whoomy Zoomy 中获得一百万点</Description>
+		<Description lang='zh-tw'>在Whoomy Zoomy贏得 1,000,000 點</Description>
+        <IconName>pp_trophy_bronze.png</IconName>
+		<IconName lang='fr-fr'>pp_trophy_bronze.png</IconName>
+		<IconName lang='it'>pp_trophy_bronze.png</IconName>
+		<IconName lang='de'>pp_trophy_bronze.png</IconName>
+		<IconName lang='es-es'>pp_trophy_bronze.png</IconName>
+		<IconName lang='zh-cn'>pp_trophy_bronze.png</IconName>
+		<IconName lang='zh-tw'>pp_trophy_bronze.png</IconName>    
+    </Achievement>
+    <Achievement id='8' hidden='false' >
+        <GamingPoints type='single'>100</GamingPoints>
+        <Title>Silver score master</Title>
+		<Title lang='fr-fr'>Maître Score Argent</Title>
+		<Title lang='it'>Maestro Pti Argento</Title>
+		<Title lang='de'>Punktemeister Silber</Title>
+		<Title lang='es-es'>Maestro Punt. Plata</Title>
+		<Title lang='zh-cn'>白银大师</Title>
+		<Title lang='zh-tw'>銀牌得分大師</Title>
+        <Description>1,000,000 pts in Boing Bowley</Description>
+		<Description lang='fr-fr'>1000000 pts à Boing Bowley</Description>
+		<Description lang='it'>1.000.000 pti Boing Bowley</Description>
+		<Description lang='de'>In Boing Bowley 1000000 Pkt</Description>
+		<Description lang='es-es'>1 millón p. en Boing Bowley</Description>
+		<Description lang='zh-cn'>在 Boing Bowley 中获得一百万点</Description>
+		<Description lang='zh-tw'>在Boing Bowley贏得 1,000,000 點</Description>
+        <IconName>pp_trophy_silver.png</IconName>
+		<IconName lang='fr-fr'>pp_trophy_silver.png</IconName>
+		<IconName lang='it'>pp_trophy_silver.png</IconName>
+		<IconName lang='de'>pp_trophy_silver.png</IconName>
+		<IconName lang='es-es'>pp_trophy_silver.png</IconName>
+		<IconName lang='zh-cn'>pp_trophy_silver.png</IconName>
+		<IconName lang='zh-tw'>pp_trophy_silver.png</IconName>    
+    </Achievement>
+    <Achievement id='9' hidden='false' >
+        <GamingPoints type='single'>100</GamingPoints>
+        <Title>Gold score master</Title>
+		<Title lang='fr-fr'>Maître Score Or</Title>
+		<Title lang='it'>Maestro Pti Oro</Title>
+		<Title lang='de'>Punktemeister Gold</Title>
+		<Title lang='es-es'>Maestro Punt. Oro</Title>
+		<Title lang='zh-cn'>黄金大师</Title>
+		<Title lang='zh-tw'>金牌得分大師</Title>
+        <Description>1,000,000 pts in Boom Bangy</Description>
+		<Description lang='fr-fr'>1000000 pts à Boom Bangy</Description>
+		<Description lang='it'>1.000.000 pti Boom Bangy</Description>
+		<Description lang='de'>In Boom Bangy 1000000 Pkt</Description>
+		<Description lang='es-es'>1 millón p. en Boom Bangy</Description>
+		<Description lang='zh-cn'>在 Boom Bangy 中获得一百万点</Description>
+		<Description lang='zh-tw'>在Boom Bangy贏得 1,000,000 點</Description>
+        <IconName>pp_trophy_gold.png</IconName>
+		<IconName lang='fr-fr'>pp_trophy_gold.png</IconName>
+		<IconName lang='it'>pp_trophy_gold.png</IconName>
+		<IconName lang='de'>pp_trophy_gold.png</IconName>
+		<IconName lang='es-es'>pp_trophy_gold.png</IconName>
+		<IconName lang='zh-cn'>pp_trophy_gold.png</IconName>
+		<IconName lang='zh-tw'>pp_trophy_gold.png</IconName>    
+    </Achievement>
+    <Achievement id='A' hidden='false' >
+        <GamingPoints type='single'>10</GamingPoints>
+        <Title>Bonus Master 1-1</Title>
+		<Title lang='fr-fr'>Maître de Bonus 1-1</Title>
+		<Title lang='it'>Bonus Maestro 1-1</Title>
+		<Title lang='de'>Bonus-Meister 1-1</Title>
+		<Title lang='es-es'>Bonif. Maestro 1-1</Title>
+		<Title lang='zh-cn'>奖励大师 1-1</Title>
+		<Title lang='zh-tw'>獎勵大師 1-1</Title>
+        <Description>All pick items in level 1-1</Description>
+		<Description lang='fr-fr'>Tous les objets niveau 1-1</Description>
+		<Description lang='it'>Prendi art. in livello1-1</Description>
+		<Description lang='de'>Alle Pickups in Level 1-1</Description>
+		<Description lang='es-es'>Todos los obj. del niv. 1-1</Description>
+		<Description lang='zh-cn'>获得关卡 1-1 中的所有宝物</Description>
+		<Description lang='zh-tw'>在關卡 1-1 中贏得所有撿拾物品</Description>
+        <IconName>pp_star01.png</IconName>
+		<IconName lang='fr-fr'>pp_star01.png</IconName>
+		<IconName lang='it'>pp_star01.png</IconName>
+		<IconName lang='de'>pp_star01.png</IconName>
+		<IconName lang='es-es'>pp_star01.png</IconName>
+		<IconName lang='zh-cn'>pp_star01.png</IconName>
+		<IconName lang='zh-tw'>pp_star01.png</IconName>    
+    </Achievement>
+    <Achievement id='B' hidden='false' >
+        <GamingPoints type='single'>10</GamingPoints>
+        <Title>Bonus Master 1-2</Title>
+		<Title lang='fr-fr'>Maître de Bonus 1-2</Title>
+		<Title lang='it'>Bonus Maestro 1-2</Title>
+		<Title lang='de'>Bonus-Meister 1-2</Title>
+		<Title lang='es-es'>Bonif. Maestro 1-2</Title>
+		<Title lang='zh-cn'>奖励大师 1-2</Title>
+		<Title lang='zh-tw'>獎勵大師 1-2</Title>
+        <Description>All pick items in level 1-2</Description>
+		<Description lang='fr-fr'>Tous les objets niveau 1-2</Description>
+		<Description lang='it'>Prendi art. in livello1-2</Description>
+		<Description lang='de'>Alle Pickups in Level 1-2</Description>
+		<Description lang='es-es'>Todos los obj. del niv. 1-2</Description>
+		<Description lang='zh-cn'>获得关卡 1-2 中的所有宝物</Description>
+		<Description lang='zh-tw'>在關卡 1-2 中贏得所有撿拾物品</Description>
+        <IconName>pp_star01.png</IconName>
+		<IconName lang='fr-fr'>pp_star01.png</IconName>
+		<IconName lang='it'>pp_star01.png</IconName>
+		<IconName lang='de'>pp_star01.png</IconName>
+		<IconName lang='es-es'>pp_star01.png</IconName>
+		<IconName lang='zh-cn'>pp_star01.png</IconName>
+		<IconName lang='zh-tw'>pp_star01.png</IconName>    
+    </Achievement>
+    <Achievement id='C' hidden='false' >
+        <GamingPoints type='single'>10</GamingPoints>
+        <Title>Bonus Master 1-3</Title>
+		<Title lang='fr-fr'>Maître de Bonus 1-3</Title>
+		<Title lang='it'>Bonus Maestro 1-3</Title>
+		<Title lang='de'>Bonus-Meister 1-3</Title>
+		<Title lang='es-es'>Bonif. Maestro 1-3</Title>
+		<Title lang='zh-cn'>奖励大师 1-3</Title>
+		<Title lang='zh-tw'>獎勵大師 1-3</Title>
+        <Description>All pick items in level 1-3</Description>
+		<Description lang='fr-fr'>Tous les objets niveau 1-3</Description>
+		<Description lang='it'>Prendi art. in livello 1-3</Description>
+		<Description lang='de'>Alle Pickups in Level 1-3</Description>
+		<Description lang='es-es'>Todos los obj. del niv. 1-3</Description>
+		<Description lang='zh-cn'>获得关卡 1-3 中的所有宝物</Description>
+		<Description lang='zh-tw'>在關卡 1-3 中贏得所有撿拾物品</Description>
+        <IconName>pp_star01.png</IconName>
+		<IconName lang='fr-fr'>pp_star01.png</IconName>
+		<IconName lang='it'>pp_star01.png</IconName>
+		<IconName lang='de'>pp_star01.png</IconName>
+		<IconName lang='es-es'>pp_star01.png</IconName>
+		<IconName lang='zh-cn'>pp_star01.png</IconName>
+		<IconName lang='zh-tw'>pp_star01.png</IconName>    
+    </Achievement>
+    <Achievement id='D' hidden='false' >
+        <GamingPoints type='single'>20</GamingPoints>
+        <Title>Bonus Master 2-1</Title>
+		<Title lang='fr-fr'>Maître de Bonus 2-1</Title>
+		<Title lang='it'>Bonus Maestro 2-1</Title>
+		<Title lang='de'>Bonus-Meister 2-1</Title>
+		<Title lang='es-es'>Bonif. Maestro 2-1</Title>
+		<Title lang='zh-cn'>奖励大师 2-1</Title>
+		<Title lang='zh-tw'>獎勵大師 2-1</Title>
+        <Description>All pick items in level 2-1</Description>
+		<Description lang='fr-fr'>Tous les objets niveau 2-1</Description>
+		<Description lang='it'>Prendi art. in livello 2-1</Description>
+		<Description lang='de'>Alle Pickups in Level 2-1</Description>
+		<Description lang='es-es'>Todos los obj. del niv. 2-1</Description>
+		<Description lang='zh-cn'>获得关卡 2-1 中的所有宝物</Description>
+		<Description lang='zh-tw'>在關卡 2-1 中贏得所有撿拾物品</Description>
+		<IconName>pp_star02.png</IconName>
+		<IconName lang='fr-fr'>pp_star02.png</IconName>
+		<IconName lang='it'>pp_star02.png</IconName>
+		<IconName lang='de'>pp_star02.png</IconName>
+		<IconName lang='es-es'>pp_star02.png</IconName>
+		<IconName lang='zh-cn'>pp_star02.png</IconName>
+		<IconName lang='zh-tw'>pp_star02.png</IconName>    
+    </Achievement>
+    <Achievement id='E' hidden='false' >
+        <GamingPoints type='single'>20</GamingPoints>
+        <Title>Bonus Master 2-2</Title>
+		<Title lang='fr-fr'>Maître de Bonus 2-2</Title>
+		<Title lang='it'>Bonus Maestro 2-2</Title>
+		<Title lang='de'>Bonus-Meister 2-2</Title>
+		<Title lang='es-es'>Bonif. Maestro 2-2</Title>
+		<Title lang='zh-cn'>奖励大师 2-2</Title>
+		<Title lang='zh-tw'>獎勵大師 2-2</Title>
+        <Description>All pick items in level 2-2</Description>
+		<Description lang='fr-fr'>Tous les objets niveau 2-2</Description>
+		<Description lang='it'>Prendi art. in livello 2-2</Description>
+		<Description lang='de'>Alle Pickups in Level 2-2</Description>
+		<Description lang='es-es'>Todos los obj. del niv. 2-2</Description>
+		<Description lang='zh-cn'>获得关卡 2-2 中的所有宝物</Description>
+		<Description lang='zh-tw'>在關卡 2-2 中贏得所有撿拾物品</Description>
+        <IconName>pp_star02.png</IconName>
+		<IconName lang='fr-fr'>pp_star02.png</IconName>
+		<IconName lang='it'>pp_star02.png</IconName>
+		<IconName lang='de'>pp_star02.png</IconName>
+		<IconName lang='es-es'>pp_star02.png</IconName>
+		<IconName lang='zh-cn'>pp_star02.png</IconName>
+		<IconName lang='zh-tw'>pp_star02.png</IconName>    
+    </Achievement>
+    <Achievement id='F' hidden='false' >
+        <GamingPoints type='single'>20</GamingPoints>
+        <Title>Bonus Master 2-3</Title>
+		<Title lang='fr-fr'>Maître de Bonus 2-3</Title>
+		<Title lang='it'>Bonus Maestro 2-3</Title>
+		<Title lang='de'>Bonus-Meister 2-3</Title>
+		<Title lang='es-es'>Bonif. Maestro 2-3</Title>
+		<Title lang='zh-cn'>奖励大师 2-3</Title>
+		<Title lang='zh-tw'>獎勵大師 2-3</Title>
+        <Description>All pick items in level 2-3</Description>
+		<Description lang='fr-fr'>Tous les objets niveau 2-3</Description>
+		<Description lang='it'>Prendi art. in livello 2-3</Description>
+		<Description lang='de'>Alle Pickups in Level 2-3</Description>
+		<Description lang='es-es'>Todos los obj. del niv. 2-3</Description>
+		<Description lang='zh-cn'>获得关卡 2-3 中的所有宝物</Description>
+		<Description lang='zh-tw'>在關卡 2-3 中贏得所有撿拾物品</Description>
+        <IconName>pp_star02.png</IconName>
+		<IconName lang='fr-fr'>pp_star02.png</IconName>
+		<IconName lang='it'>pp_star02.png</IconName>
+		<IconName lang='de'>pp_star02.png</IconName>
+		<IconName lang='es-es'>pp_star02.png</IconName>
+		<IconName lang='zh-cn'>pp_star02.png</IconName>
+		<IconName lang='zh-tw'>pp_star02.png</IconName>    
+    </Achievement>
+    <Achievement id='10' hidden='false' >
+        <GamingPoints type='single'>20</GamingPoints>
+        <Title>Bonus Master 2-4</Title>
+		<Title lang='fr-fr'>Maître de Bonus 2-4</Title>
+		<Title lang='it'>Bonus Maestro 2-4</Title>
+		<Title lang='de'>Bonus-Meister 2-4</Title>
+		<Title lang='es-es'>Bonif. Maestro 2-4</Title>
+		<Title lang='zh-cn'>奖励大师 2-4</Title>
+		<Title lang='zh-tw'>獎勵大師 2-4</Title>
+        <Description>All pick items in level 2-4</Description>
+		<Description lang='fr-fr'>Tous les objets niveau 2-4</Description>
+		<Description lang='it'>Prendi art. in livello 2-4</Description>
+		<Description lang='de'>Alle Pickups in Level 2-4</Description>
+		<Description lang='es-es'>Todos los obj. del niv. 2-4</Description>
+		<Description lang='zh-cn'>获得关卡 2-4 中的所有宝物</Description>
+		<Description lang='zh-tw'>在關卡 2-4 中贏得所有撿拾物品</Description>
+        <IconName>pp_star02.png</IconName>
+		<IconName lang='fr-fr'>pp_star02.png</IconName>
+		<IconName lang='it'>pp_star02.png</IconName>
+		<IconName lang='de'>pp_star02.png</IconName>
+		<IconName lang='es-es'>pp_star02.png</IconName>
+		<IconName lang='zh-cn'>pp_star02.png</IconName>
+		<IconName lang='zh-tw'>pp_star02.png</IconName>    
+    </Achievement>
+    <Achievement id='11' hidden='false' >
+        <GamingPoints type='single'>50</GamingPoints>
+        <Title>Bonus Master 3-1</Title>
+		<Title lang='fr-fr'>Maître de Bonus 3-1</Title>
+		<Title lang='it'>Bonus Maestro 3-1</Title>
+		<Title lang='de'>Bonus-Meister 3-1</Title>
+		<Title lang='es-es'>Bonif. Maestro 3-1</Title>
+		<Title lang='zh-cn'>奖励大师 3-1</Title>
+		<Title lang='zh-tw'>獎勵大師 3-1</Title>
+        <Description>All pick items in level 3-1</Description>
+		<Description lang='fr-fr'>Tous les objets niveau 3-1</Description>
+		<Description lang='it'>Prendi art. in livello 3-1</Description>
+		<Description lang='de'>Alle Pickups in Level 3-1</Description>
+		<Description lang='es-es'>Todos los obj. del niv. 3-1</Description>
+		<Description lang='zh-cn'>获得关卡 3-1 中的所有宝物</Description>
+		<Description lang='zh-tw'>在關卡 3-1 中贏得所有撿拾物品</Description>
+        <IconName>pp_star03.png</IconName>
+		<IconName lang='fr-fr'>pp_star03.png</IconName>
+		<IconName lang='it'>pp_star03.png</IconName>
+		<IconName lang='de'>pp_star03.png</IconName>
+		<IconName lang='es-es'>pp_star03.png</IconName>
+		<IconName lang='zh-cn'>pp_star03.png</IconName>
+		<IconName lang='zh-tw'>pp_star03.png</IconName>    
+    </Achievement>
+    <Achievement id='12' hidden='false' >
+        <GamingPoints type='single'>50</GamingPoints>
+        <Title>Bonus Master 3-2</Title>
+		<Title lang='fr-fr'>Maître de Bonus 3-2</Title>
+		<Title lang='it'>Bonus Maestro 3-2</Title>
+		<Title lang='de'>Bonus-Meister 3-2</Title>
+		<Title lang='es-es'>Bonif. Maestro 3-2</Title>
+		<Title lang='zh-cn'>奖励大师 3-2</Title>
+		<Title lang='zh-tw'>獎勵大師 3-2</Title>
+        <Description>All pick items in level 3-2</Description>
+		<Description lang='fr-fr'>Tous les objets niveau 3-2</Description>
+		<Description lang='it'>Prendi art. in livello 3-2</Description>
+		<Description lang='de'>Alle Pickups in Level 3-2</Description>
+		<Description lang='es-es'>Todos los obj. del niv. 3-2</Description>
+		<Description lang='zh-cn'>获得关卡 3-2 中的所有宝物</Description>
+		<Description lang='zh-tw'>在關卡 3-2 中贏得所有撿拾物品</Description>
+        <IconName>pp_star03.png</IconName>
+		<IconName lang='fr-fr'>pp_star03.png</IconName>
+		<IconName lang='it'>pp_star03.png</IconName>
+		<IconName lang='de'>pp_star03.png</IconName>
+		<IconName lang='es-es'>pp_star03.png</IconName>
+		<IconName lang='zh-cn'>pp_star03.png</IconName>
+		<IconName lang='zh-tw'>pp_star03.png</IconName>    
+    </Achievement>
+    <Achievement id='13' hidden='false' >
+        <GamingPoints type='single'>50</GamingPoints>
+        <Title>Bonus Master 3-3</Title>
+		<Title lang='fr-fr'>Maître de Bonus 3-3</Title>
+		<Title lang='it'>Bonus Maestro 3-3</Title>
+		<Title lang='de'>Bonus-Meister 3-3</Title>
+		<Title lang='es-es'>Bonif. Maestro 3-3</Title>
+		<Title lang='zh-cn'>奖励大师 3-3</Title>
+		<Title lang='zh-tw'>獎勵大師 3-3</Title>
+        <Description>All pick items in level 3-3</Description>
+		<Description lang='fr-fr'>Tous les objets niveau 3-3</Description>
+		<Description lang='it'>Prendi art. in livello 3-3</Description>
+		<Description lang='de'>Alle Pickups in Level 3-3</Description>
+		<Description lang='es-es'>Todos los obj. del niv. 3-3</Description>
+		<Description lang='zh-cn'>获得关卡 3-1 中的所有宝物</Description>
+		<Description lang='zh-tw'>在關卡 3-1 中贏得所有撿拾物品</Description>
+        <IconName>pp_star03.png</IconName>
+		<IconName lang='fr-fr'>pp_star03.png</IconName>
+		<IconName lang='it'>pp_star03.png</IconName>
+		<IconName lang='de'>pp_star03.png</IconName>
+		<IconName lang='es-es'>pp_star03.png</IconName>
+		<IconName lang='zh-cn'>pp_star03.png</IconName>
+		<IconName lang='zh-tw'>pp_star03.png</IconName>    
+    </Achievement>
+    <Achievement id='14' hidden='false' >
+        <GamingPoints type='single'>50</GamingPoints>
+        <Title>Bronze Collector</Title>
+		<Title lang='fr-fr'>Amasseur de Bronze</Title>
+		<Title lang='it'>Collettore di Bronzo</Title>
+		<Title lang='de'>Sammler Bronze</Title>
+		<Title lang='es-es'>Colecc. Bronce</Title>
+		<Title lang='zh-cn'>青铜收藏家</Title>
+		<Title lang='zh-tw'>銅牌收藏家</Title>
+        <Description>150 pick items in total</Description>
+ 		<Description lang='fr-fr'>150 objets en tout</Description>
+		<Description lang='it'>Recupera 150 art.in totale</Description>
+		<Description lang='de'>150 Pickups insgesamt</Description>
+		<Description lang='es-es'>Reunir 150 objetos en total</Description>
+		<Description lang='zh-cn'>总共收集到 150 个宝物</Description>
+		<Description lang='zh-tw'>總共收集 150 個撿拾物品</Description>
+       <IconName>pp_trophy_bronze.png</IconName>
+		<IconName lang='fr-fr'>pp_trophy_bronze.png</IconName>
+		<IconName lang='it'>pp_trophy_bronze.png</IconName>
+		<IconName lang='de'>pp_trophy_bronze.png</IconName>
+		<IconName lang='es-es'>pp_trophy_bronze.png</IconName>
+		<IconName lang='zh-cn'>pp_trophy_bronze.png</IconName>
+		<IconName lang='zh-tw'>pp_trophy_bronze.png</IconName>    
+    </Achievement>
+    <Achievement id='15' hidden='false' >
+        <GamingPoints type='single'>75</GamingPoints>
+        <Title>Silver Collector</Title>
+		<Title lang='fr-fr'>Amasseur d'Argent</Title>
+		<Title lang='it'>Collettore d'Argento</Title>
+		<Title lang='de'>Sammler Silber</Title>
+		<Title lang='es-es'>Colecc. Plata</Title>
+		<Title lang='zh-cn'>白银收藏家</Title>
+		<Title lang='zh-tw'>銀牌收藏家</Title>
+        <Description>250 pick items in total</Description>
+ 		<Description lang='fr-fr'>250 objets en tout</Description>
+		<Description lang='it'>Recupera 250 art.in totale</Description>
+		<Description lang='de'>250 Pickups insgesamt</Description>
+		<Description lang='es-es'>Reunir 250 objetos en total</Description>
+		<Description lang='zh-cn'>总共收集到 250 个宝物</Description>
+		<Description lang='zh-tw'>總共收集 250 個撿拾物品</Description>
+        <IconName>pp_trophy_silver.png</IconName>
+		<IconName lang='fr-fr'>pp_trophy_silver.png</IconName>
+		<IconName lang='it'>pp_trophy_silver.png</IconName>
+		<IconName lang='de'>pp_trophy_silver.png</IconName>
+		<IconName lang='es-es'>pp_trophy_silver.png</IconName>
+		<IconName lang='zh-cn'>pp_trophy_silver.png</IconName>
+		<IconName lang='zh-tw'>pp_trophy_silver.png</IconName>    
+    </Achievement>
+    <Achievement id='16' hidden='false' >
+        <GamingPoints type='single'>125</GamingPoints>
+        <Title>Gold Collector</Title>
+		<Title lang='fr-fr'>Amasseur d'Or</Title>
+		<Title lang='it'>Collettore d'Oro</Title>
+		<Title lang='de'>Sammler Gold</Title>
+		<Title lang='es-es'>Colecc. Oro</Title>
+		<Title lang='zh-cn'>黄金收藏家</Title>
+		<Title lang='zh-tw'>金牌收藏家</Title>
+        <Description>500 pick items in total</Description>
+ 		<Description lang='fr-fr'>500 objets en tout</Description>
+		<Description lang='it'>Recupera 500 art.in totale</Description>
+		<Description lang='de'>500 Pickups insgesamt</Description>
+		<Description lang='es-es'>Reunir 500 objetos en total</Description>
+		<Description lang='zh-cn'>总共收集到 500 个宝物</Description>
+		<Description lang='zh-tw'>總共收集 500 個撿拾物品</Description>
+        <IconName>pp_trophy_gold.png</IconName>
+		<IconName lang='fr-fr'>pp_trophy_gold.png</IconName>
+		<IconName lang='it'>pp_trophy_gold.png</IconName>
+		<IconName lang='de'>pp_trophy_gold.png</IconName>
+		<IconName lang='es-es'>pp_trophy_gold.png</IconName>
+		<IconName lang='zh-cn'>pp_trophy_gold.png</IconName>
+		<IconName lang='zh-tw'>pp_trophy_gold.png</IconName>    
+    </Achievement>
+</GameAchievements>
